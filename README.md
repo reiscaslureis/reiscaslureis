@@ -33,10 +33,10 @@
 ## Outras Skills
   
 <div align="center">
-    <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
+    <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
+    <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg">
+    <img height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
