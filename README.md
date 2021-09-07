@@ -1,10 +1,10 @@
 <div>
     <a href="https://github.com/reiscaslureis">
-    <img width="53.2%" src="https://github-readme-stats.vercel.app/api?username=reiscaslureis&show_icons=true&theme=bear&include_all_commits=true&count_private=true&border_radius=0"/>
-    <img width="44.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reiscaslureis&layout=compact&langs_count=7&border_radius=0&theme=bear"/>
+    <img width="53.2%" src="https://github-readme-stats.vercel.app/api?username=reiscaslureis&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&border_radius=0"/>
+    <img width="44.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reiscaslureis&layout=compact&langs_count=7&border_radius=0&theme=onedark"/>
 </div>
-    
-## Desenvolvedor Web FullStack
+      
+## Desenvolvedor Web Full-StacK
    
 <div align="center">
     <img height="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
