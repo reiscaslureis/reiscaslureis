@@ -1,7 +1,7 @@
 <div>
     <a href="https://github.com/reiscaslureis">
-    <img width="53.2%" src="https://github-readme-stats.vercel.app/api?username=reiscaslureis&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&border_radius=0"/>
-    <img width="44.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reiscaslureis&layout=compact&langs_count=7&border_radius=0&theme=onedark"/>
+    <img width="57.2%" src="https://github-readme-stats.vercel.app/api?username=reiscaslureis&show_icons=true&theme=nord&include_all_commits=true&count_private=true&border_radius=0"/>
+    <img width="41.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reiscaslureis&layout=compact&langs_count=7&border_radius=0&theme=nord"/>
 </div>
       
 ## Desenvolvedor Web Full-StacK
