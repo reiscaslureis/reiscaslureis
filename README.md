@@ -10,7 +10,6 @@
 ## SKILLS
     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     
 <div align="center">
     <img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
